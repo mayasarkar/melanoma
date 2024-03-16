@@ -8,13 +8,23 @@
   - ``final-melanoma-model-16th-place-solution-light-v.ipynb`` Light version of the final model with tweaked hyperparameters.
 ## Context
 
-Characteristics of Melanoma images
+### Characteristics of Melanoma images
 
 <img src="/images/Melanoma-characteristics.jpg" alt="Melanoma patch characteristics"/>
 
-Progression of Melanoma from early to Stage 4 when it metastasizes 
+### Progression of Melanoma from early to Stage 4 when it metastasizes 
 
 <img src="/images/Melanoma-progression.jpg" alt="Melanoma progression"/>
+
+### Image Augmentation
+
+<img src="/images/augmentation.png" alt="Image augmentation"/>
+
+### Image Preprocessing
+
+<img src="/images/preproc.png" alt="Image pre-processing"/>
+
+
 
 
 
