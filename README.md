@@ -1,9 +1,7 @@
-# SIIM-ISIC-Melanoma-Classification
-This repository includes my works about SIIM-ISIC-Melanoma-Classification hosted on [kaggle](https://www.kaggle.com/c/siim-isic-melanoma-classification)
-## What You Can Find In this Work:
-  - Extensive Exploratory Data Analysis
-  - Predict melanoma status from tabular data Using Classical ML Tools
-  - Predict melanoma status from images with the help of CNN's, Keras, TPU's
+# Optimizing Skin Cancer Diagnosis with Intelligent AI Model Ensembles with SIIM-ISIC melanoma dataset
+## This repository contains source code for the following analysis:
+  - Predict melanoma detection from images with Convolutional Neural Network
+  - Data Analysis for SIIM-ISIC
 ## Files:
   - ``analysis-of-melanoma-metadata-and-effnet-ensemble.ipynb:`` Main notebook with all steps included.
   - ``eda-modelling-of-the-external-data-inc-ensemble.ipynb:`` Helper notebook with external data included.
